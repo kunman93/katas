@@ -2,6 +2,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
 import tennis.*;
 import tennis.tennisgame1.TennisGame1;
+import tennis.tennisgame2.TennisGame2;
 
 import java.util.stream.Stream;
 
