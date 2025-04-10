@@ -3,6 +3,7 @@ import org.junit.jupiter.params.provider.MethodSource;
 import tennis.*;
 import tennis.tennisgame1.TennisGame1;
 import tennis.tennisgame2.TennisGame2;
+import tennis.tennisgame3.TennisGame3;
 
 import java.util.stream.Stream;
 
